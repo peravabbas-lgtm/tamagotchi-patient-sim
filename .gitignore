@@ -1,0 +1,17 @@
+# Build output
+build/
+out/
+*.o
+*.obj
+*.exe
+patient_sim
+
+# IDE / editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Player save files
+*.sav
